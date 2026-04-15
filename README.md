@@ -40,9 +40,9 @@ This project analyzes retail sales data using SQL to generate business insights 
 
 ## 📷 Sample Outputs
 
-[revenue](output/revenue.png)
-[top_products](output/top_products.png)
-[monthly_sales](output/monthly_sales.png)
+![Revenue](output/revenue.png)
+![Top Products](output/top_products.png)
+![Monthly Sales](output/monthly_sales.png)
 
 ## 🚀 Key Insights
 
